@@ -204,15 +204,15 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;97m \x1b[1;91mTool Password  \x1b[1;97m» \x1b[1;97m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:MR_MUGHAL
+            print "Logged in successfully as " + username #Dev:bilal_khan
 	    time.sleep(2)
             loop = 'false'
         else:
             print "\033[1;94mWrong Password"
-            os.system('xdg-open https://m.facebook.comMUGHALTRICK.BLOGSPOT.com')
+            os.system('xdg-open https://m.facebook.com/bilal.khan.000786')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://m.facebook.comMUGHALTRICK.BLOGSPOT.com')
+        os.system('xdg-open https://m.facebook.com/bilal.khan.000786')
 
 
 
@@ -242,9 +242,9 @@ def pilih_login():
 def Zeek():
     os.system('clear')
     print logo1
-    print '\x1b[1;91m[1]  START CLONING With Pathani'
+    print '\x1b[1;91m[1]  START CLONING With Pathan'
     time.sleep(0.10)
-    print '\x1b[1;92m[2] SHERNI FB ACCOUNT'
+    print '\x1b[1;92m[2] bilal FB ACCOUNT'
     time.sleep(0.10)
     print '\x1b[1;95m[3] MORE INFO'
     time.sleep(0.10)
@@ -252,7 +252,7 @@ def Zeek():
     time.sleep(0.10)
     print '\x1b[1;97m[5] CLONING ERROR'
     time.sleep(0.10)
-    print '\x1b[1;91m[6] SHERNI FACEBOOK'
+    print '\x1b[1;91m[6] bilal FACEBOOK'
     time.sleep(0.10)
     print '\x1b[1;94m[0] back'
    
@@ -289,7 +289,7 @@ def action():
     xxx = str(len(id))
     jalan ('\033[1;91m Total ids number: '+xxx)
     jalan ('\033[1;92mCode you choose: '+c)
-    jalan ("\033[1;93mWait A While Pathani Start Cracking...")
+    jalan ("\033[1;93mWait A While BILAL Start Cracking...")
     jalan ("\033[1;94mTo Stop Process Press Ctrl+z")
     print 50* '\033[1;97m-'
     def main(arg):
