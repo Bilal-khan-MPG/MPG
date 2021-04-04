@@ -181,8 +181,8 @@ logo2 = """
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;91mDEVOLPER:
                      Bilal Khan
-\033[1;94mAUTHOR:
-                     Sherni Pathani
+\033[1;94mBrothers:
+                     Bilal Xe Shayan Xe Shahbaz
 \033[1;91mPakistan Cloning FB Ids
                      
 \033[1;93mFacebook:
