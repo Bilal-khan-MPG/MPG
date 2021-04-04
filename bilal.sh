@@ -97,7 +97,7 @@ print  """
 
 \033[1;92m🄱🄸🄻🄰🄻 🄺🄷🄰🄽
 \033[1;97mBilal
-\033[1;92m.      Kham
+\033[1;92m.      Khan
 
 
 \033[1;92m---------------------PukhTooN---------------------
@@ -108,7 +108,7 @@ print  """
                      Bilal Khan Pathan
 \033[1;94mGang:
                      MPG KinG
-\033[1;91mFuck You Haters HunterBoyz Are my foot
+\033[1;91mNon SToP ThoKai
                      
 \033[1;93mFacebook:
                      bilal.khan.000786
